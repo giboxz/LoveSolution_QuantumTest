@@ -40,4 +40,4 @@ Temos 3 oráculos em nosso projeto:
 
 > Madu
 
-> Carol
+> Carolayne Oliveira
