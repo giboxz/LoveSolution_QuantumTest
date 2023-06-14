@@ -38,6 +38,6 @@ Temos 3 oráculos em nosso projeto:
 
 > Gilvan Ferreira
 
-> Madu
+> Maria Eduarda Gomes
 
 > Carolayne Oliveira
